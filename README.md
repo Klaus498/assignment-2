@@ -1,1 +1,4 @@
-# assignment-2
+needed libraries:
+pandas
+sklearn
+keras
